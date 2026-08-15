@@ -57,6 +57,7 @@ ReliefGrid PK was developed to demonstrate:
 - HTML
 - CSS
 - JavaScript
+- CI/CD pipeline verified with GitHub Actions.
 
 ### Build and DevOps
 
